@@ -13,6 +13,7 @@ function register_patterns_from_folder() {
     $pattern_folders = [
         'syncoria-patterns' => 'Syncoria Patterns',
         'syncoria-full-page-patterns' => 'Syncoria Full Page Patterns',
+        'syncoria-full-page-patterns-landing-pages' => 'Syncoria Full Page Patterns Landing Pages',
     ];
 
     foreach ($pattern_folders as $folder => $category_label) {
